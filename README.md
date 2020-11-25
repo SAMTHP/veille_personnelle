@@ -30,7 +30,7 @@
       <td>Se tenir informer des formations liées aux technologies</td>
     </tr>
     <tr>
-      <td rowspan="5">Gestion de projet</td>
+      <td>Gestion de projet</td>
       <td>Se tenir informer sur les bonnes pratiques en matière de gestion de projet agile, et plus particulièrement en extreme proramming</td>
     </tr>
     <tr>
