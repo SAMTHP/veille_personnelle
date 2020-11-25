@@ -63,4 +63,7 @@
   </tbody>
 </table>
 
+## 2 - Outil utilisé pour la veille
+
+## 3 - Périodicité pour la lecture de la veille
 
