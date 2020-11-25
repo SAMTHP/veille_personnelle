@@ -4,6 +4,7 @@
 
 | Domaines 	    |       Objectifs     	                                                      |
 |:-------------------:|:-----------------------------------------------------------------------------:|
+| Développement       |
 | Développement       | Se tenir à jour sur les différentes technologies liées au métier de developpeur web full-stack et desktop |
 |        | Technos en vogue / Nouvelles technos dans le développement web et desktop |
 |        | Suivre les différentes montées en versions de mes languages/technos de prédilection côté back et front |
