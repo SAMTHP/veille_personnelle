@@ -5,13 +5,13 @@
 <table>
   <thead>
     <tr>
-      <th>DOmaines</th>
+      <th>Domaines</th>
       <th>Objectifs</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6">Développement</td>
+      <td rowspan="6" style="text-align: center;">Développement</td>
       <td>Se tenir à jour sur les différentes technologies liées au métier de developpeur web full-stack et desktop</td>
     </tr>
     <tr>
