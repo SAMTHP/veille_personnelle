@@ -72,6 +72,8 @@
 > Idéalement, il faudrait mettre en place un système de notifications (mail, pop-up, etc...) lorsqu'un nouvel article est sorti.
     Néanmoins, lire tous les jours sa veille avec une durée de lecture aléatoire en fonction du temps disponible au moment de la lecture, serait bénéfique. L'idée, serait de prendre plaisir à lire sa veille, sans que cela ne devienne une tâche faite par obligation, au risque de perdre en concentration.
     
+    
+![Feedly](https://trello-attachments.s3.amazonaws.com/5fb23d09c9c96d49becef6ac/5fb254934a45ec082e3f8581/097eeeb7f0467ec8776565ffd1cd966e/image.png
+)
 
-https://trello-attachments.s3.amazonaws.com/5fb23d09c9c96d49becef6ac/5fb254934a45ec082e3f8581/097eeeb7f0467ec8776565ffd1cd966e/image.png
 
