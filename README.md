@@ -27,7 +27,7 @@
       <td>Se documenter sur les bonnes pratiques de développement (Design pattern, SOLID Principles, etc...)</td>
     </tr>
     <tr>
-      <td>Se tenir informer des formations liées aux technologies</td>
+      <td>Se tenir informer des formations liées aux technologies suivis</td>
     </tr>
     <tr>
       <td>Gestion de projet</td>
@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td rowspan="3">DEVOPS</td>
-      <td>Se documenter sur les technogies d'intégration continue</td>
+      <td>Se documenter sur les technologies d'intégration continue</td>
     </tr>
     <tr>
       <td>GitLab Ci/Cd</td>
@@ -68,6 +68,6 @@
 
 ## 3 - Périodicité pour la lecture de la veille
 > Idéalement, il faudrait mettre en place un système de notifications (mail, pop-up, etc...) lorsqu'un nouvel article est sorti.
-    Néanmoins, lire un peut tous les jours sa veille, avec une durée de lecture aléatoire, en fonction du temps disponible au moment de la lecture de la veille. L'idée serait de prendre plaisir à lire sa veille, sans que ça devienne une tâche faite par obligation, au risque de perdre en concentration.
+    Néanmoins, lire tous les jours sa veille avec une durée de lecture aléatoire en fonction du temps disponible au moment de la lecture, serait bénéfique. L'idée, serait de prendre plaisir à lire sa veille, sans que ça devienne une tâche faite par obligation, au risque de perdre en concentration.
 
 
