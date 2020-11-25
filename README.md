@@ -1,4 +1,4 @@
-# **Veille professionnel**
+<center># **Veille professionnel**</center>
 
 ## 1 - Définition et structuration des objectifs par domaine
 
