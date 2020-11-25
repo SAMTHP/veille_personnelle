@@ -2,17 +2,6 @@
 
 # 1 - Définition et structuration des objectifs par domaine
 
-| Domaines 	    |       Objectifs     	                                                      |
-|:-------------------:|:-----------------------------------------------------------------------------:|
-| Développement       |
-| Développement       | Se tenir à jour sur les différentes technologies liées au métier de developpeur web full-stack et desktop |
-|        | Technos en vogue / Nouvelles technos dans le développement web et desktop |
-|        | Suivre les différentes montées en versions de mes languages/technos de prédilection côté back et front |
-|        | S'assurer que les technos utilisées sont toujours maintenues et mises à jour |
-|        | Se documenter sur les bonnes pratiques de développement (Design pattern, SOLID Principles, etc...) |
-|        | Se tenir informer des formations liées aux technologies pratiqueés |
-| Gestion de projet | Se tenir à jour sur les différentes technologies liées au métier de developpeur web full-stack et desktop |
-
 <table>
   <thead>
     <tr>
@@ -22,7 +11,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="5">Développement</td>
+      <td rowspan="6">Développement</td>
       <td>Se tenir à jour sur les différentes technologies liées au métier de developpeur web full-stack et desktop</td>
     </tr>
     <tr>
@@ -43,6 +32,33 @@
     <tr>
       <td rowspan="5">Gestion de projet</td>
       <td>Se tenir informer sur les bonnes pratiques en matière de gestion de projet agile, et plus particulièrement en extreme proramming</td>
+    </tr>
+    <tr>
+      <td rowspan="3">DEVOPS</td>
+      <td>Se documenter sur les technogies d'intégration continue</td>
+    </tr>
+    <tr>
+      <td>GitLab Ci/Cd</td>
+    </tr>
+    <tr>
+      <td>Docker, kubernetes, ...</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Sécurité et législation</td>
+      <td>Se documenter sur les bonnes pratiques en termes de sécurité</td>
+    </tr>
+    <tr>
+      <td>Se documenter sur les mesures liées au RGPD afin d'être en corrélation avec les mesures demandées</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Conjoncture, opportunité, réalité du marché</td>
+      <td>Se tenir informé sur les évolutions de carrière lié au métier de développeur full-stack</td>
+    </tr>
+    <tr>
+      <td>Vérifier les parts de marchés liées aux languages web utilisées, afin de se projeter dans le futur (pertinence de garder le language actuel, ou de changer vers un autre en pleine croissance)</td>
+    </tr>
+    <tr>
+      <td>Se tenir informé des différents postes à pourvoir</td>
     </tr>
   </tbody>
 </table>
