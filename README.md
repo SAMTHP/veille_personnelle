@@ -12,3 +12,13 @@
 |        | Se documenter sur les bonnes pratiques de développement (Design pattern, SOLID Principles, etc...) |
 |        | Se tenir informer des formations liées aux technologies pratiqueés |
 | Gestion de projet | Se tenir à jour sur les différentes technologies liées au métier de developpeur web full-stack et desktop |
+
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
