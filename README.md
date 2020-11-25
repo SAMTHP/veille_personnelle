@@ -38,7 +38,7 @@
       <td>Se documenter sur les technologies d'intégration continue</td>
     </tr>
     <tr>
-      <td>GitLab Ci/Cd</td>
+      <td>GitLab CI/CD</td>
     </tr>
     <tr>
       <td>Docker, kubernetes, ...</td>
