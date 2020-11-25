@@ -1,4 +1,6 @@
-# **Veille professionnel - Samir Founou - I1 C2 - EPSI MONTPELLIER**
+> Samir Founou - I1 C2 - EPSI MONTPELLIER
+
+# **Veille professionnel**
 
 ## 1 - Définition et structuration des objectifs par domaine
 
