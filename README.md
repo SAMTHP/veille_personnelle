@@ -1,4 +1,4 @@
-<center># **Veille professionnel**</center>
+# **Veille professionnel**
 
 ## 1 - Définition et structuration des objectifs par domaine
 
@@ -64,6 +64,10 @@
 </table>
 
 ## 2 - Outil utilisé pour la veille
+> Feedly
 
 ## 3 - Périodicité pour la lecture de la veille
+> Idéalement, il faudrait mettre en place un système de notifications (mail, pop-up, etc...) lorsqu'un nouvel article est sorti.
+    Néanmoins, lire un peut tous les jours sa veille, avec une durée de lecture aléatoire, en fonction du temps disponible au moment de la lecture de la veille. L'idée serait de prendre plaisir à lire sa veille, sans que ça devienne une tâche faite par obligation, au risque de perdre en concentration.
+
 
