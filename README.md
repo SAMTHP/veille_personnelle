@@ -1,6 +1,6 @@
 # **Veille professionnel**
 
-# 1 - Définition et structuration des objectifs par domaine
+## 1 - Définition et structuration des objectifs par domaine
 
 <table>
   <thead>
@@ -11,7 +11,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6" style="text-align: center;">Développement</td>
+      <td rowspan="6">Développement</td>
       <td>Se tenir à jour sur les différentes technologies liées au métier de developpeur web full-stack et desktop</td>
     </tr>
     <tr>
@@ -62,3 +62,5 @@
     </tr>
   </tbody>
 </table>
+
+
